@@ -12,26 +12,21 @@ namespace Rock_Paper_Scissors_Demo1
 			int userWin = 0;
 			int compWin = 0;
 			int tie = 0;
+			// best of 3 for loop
 			for (int i = 0; i < 3; i++) 
 			{
 				int convertedNumber = -1;
 				bool conversionBool = false;
 				//if the computer or user has won twice in a row, break out of the loop
-				if (userWin == 2)
+				if (userWin == 2 || compWin == 2)
                 {
-					Console.WriteLine($"You win! The final score is {userWin}-{compWin}");
 					break;
                 }
-				if (compWin == 2)
-                {
-					Console.WriteLine($"You Lost! The final score is {userWin}-{compWin}");
-					break;
-				}
 				
 				do
 				{
 					//validate the use input as a 1, 2, or 3
-					Console.WriteLine($"You have won {userWin} times, the computer has won {compWin} times, and tied {tie} times!");
+					Console.WriteLine($"You have won {userWin} time(s), the computer has won {compWin} time(s), and tied {tie} time(s)!");
 					Console.WriteLine("Please enter enter 1 for ROCK, 2 for PAPER, 3 for SCISSORS");
 					string userInput = Console.ReadLine();
 
