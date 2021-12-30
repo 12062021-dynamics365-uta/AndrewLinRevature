@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NGyUf+qZVillMCfAfbQBuSNsHZt5/BpCeN7jSKQClcYlA4wRGF5PW29q4b4v0OUur8ZXWZ2Yw04tvwjuGXgUjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Godol\\OneDrive\\Desktop\\AndrewLinRevature1\\C#Challenges\\7_GuessingGame\\7_GuessingGame\\7_GuessingGameChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Godol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Godol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Godol\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Godol\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.21\\microsoft.netcore.app.host.win-x86.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

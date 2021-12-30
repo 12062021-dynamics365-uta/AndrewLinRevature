@@ -1,0 +1,14 @@
+C:\Users\Godol\OneDrive\Desktop\AndrewLinRevature1\C#Challenges\5_Operators\5_Operators\bin\Debug\netcoreapp3.1\5_Operators.exe
+C:\Users\Godol\OneDrive\Desktop\AndrewLinRevature1\C#Challenges\5_Operators\5_Operators\bin\Debug\netcoreapp3.1\5_Operators.deps.json
+C:\Users\Godol\OneDrive\Desktop\AndrewLinRevature1\C#Challenges\5_Operators\5_Operators\bin\Debug\netcoreapp3.1\5_Operators.runtimeconfig.json
+C:\Users\Godol\OneDrive\Desktop\AndrewLinRevature1\C#Challenges\5_Operators\5_Operators\bin\Debug\netcoreapp3.1\5_Operators.runtimeconfig.dev.json
+C:\Users\Godol\OneDrive\Desktop\AndrewLinRevature1\C#Challenges\5_Operators\5_Operators\bin\Debug\netcoreapp3.1\5_Operators.dll
+C:\Users\Godol\OneDrive\Desktop\AndrewLinRevature1\C#Challenges\5_Operators\5_Operators\bin\Debug\netcoreapp3.1\5_Operators.pdb
+C:\Users\Godol\OneDrive\Desktop\AndrewLinRevature1\C#Challenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.csproj.AssemblyReference.cache
+C:\Users\Godol\OneDrive\Desktop\AndrewLinRevature1\C#Challenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Godol\OneDrive\Desktop\AndrewLinRevature1\C#Challenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.AssemblyInfoInputs.cache
+C:\Users\Godol\OneDrive\Desktop\AndrewLinRevature1\C#Challenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.AssemblyInfo.cs
+C:\Users\Godol\OneDrive\Desktop\AndrewLinRevature1\C#Challenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Godol\OneDrive\Desktop\AndrewLinRevature1\C#Challenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.dll
+C:\Users\Godol\OneDrive\Desktop\AndrewLinRevature1\C#Challenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.pdb
+C:\Users\Godol\OneDrive\Desktop\AndrewLinRevature1\C#Challenges\5_Operators\5_Operators\obj\Debug\netcoreapp3.1\5_Operators.genruntimeconfig.cache

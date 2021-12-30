@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "655atkTBUk6KaJGt8Erc1BbGDvxQ2AwmMHXeZ94iGTmgtbzrw52fRLRjlgOTIXnPvdyxvXffELNjq7mfwKcTBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Godol\\OneDrive\\Desktop\\AndrewLinRevature1\\C#Challenges\\3_DataTypeAndVariables\\3_DataTypeAndVariables_StudentCopy\\3.DataTypeChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Godol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Godol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Godol\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Godol\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.21\\microsoft.netcore.app.host.win-x86.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
