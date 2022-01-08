@@ -103,7 +103,7 @@ enterButton2.innerText = 'Go start SweetnSalty Program';
   document.body.appendChild(enterButton2);
   
 });
-// will take user input and see if it causes any errors 
+
 inputElemStarting.addEventListener('keydown', (e) =>{
     if(e.key == 'Enter'){
     startingNumber = parseInt(inputElemStarting.value);
@@ -111,7 +111,7 @@ inputElemStarting.addEventListener('keydown', (e) =>{
     }
 })
 
-// will take user input and see if it causes any errors 
+// will take user input and see if it causes any error
 inputElemFinal.addEventListener('keydown', (e) => {
   if (e.key == 'Enter'){
     endingNumber = parseInt(inputElemFinal.value);
@@ -135,7 +135,7 @@ function enterSweetnSalty(startingNumber, endingNumber){
  for (let i = startingNumber; i <= endingNumber; i++){
     document.body.appendChild(p);
     grouping++; 
-    if(i % 3 == 0 && i % 5){
+    if(i % 3 == 0 && i % 5 == 0){
         let sweetnSalty = document.createElement('span');
         sweetnSaltyCounter++;
         sweetnSalty.classList.add("isSweetnSalty");
