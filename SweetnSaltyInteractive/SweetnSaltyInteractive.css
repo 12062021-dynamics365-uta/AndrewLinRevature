@@ -1,0 +1,11 @@
+.isSweetnSalty{
+    background-color: green;
+    color: white;
+
+  }
+  .error{
+      color: red;
+  }
+  .CorrectInput{
+      color: green;
+  }
