@@ -1,3 +1,3 @@
 # AndrewLinRevature1
 
-SweetnSalty Assignment
+SweetnSalty Assignment API
