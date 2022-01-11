@@ -65,8 +65,8 @@ namespace Business
             List<Flavor> flavors = new List<Flavor>();
             while (dr.Read())
             {
-                Flavor f = this._mapper.EntityToFlavor(dr);
-                flavors.Add(f);
+                Flavor flavor = this._mapper.EntityToFlavor(dr);
+                flavors.Add(flavor);
             }
             return flavors;
         }
