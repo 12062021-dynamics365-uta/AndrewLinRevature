@@ -31,7 +31,7 @@ Kawaii PC Parts will consist of separate sales, marketing, customer service, and
 * Create Invoice with an email of the Invoice being emailed to the Lead
 * Discounts 
 * Price Lists to filter through all of the products 
-* Sales Lifecycle
+* Business Process Flow
 
 To-Do List:
 
